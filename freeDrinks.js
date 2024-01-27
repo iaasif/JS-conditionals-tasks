@@ -7,10 +7,9 @@ Free Drinks
 
 let burgerPrice = 600;
 
-if(burgerPrice>500)
-{
+if (burgerPrice > 500) {
     console.log("get free coke");
 }
-else{
+else {
     console.log("coke price 30tk");
 }
